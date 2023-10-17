@@ -1,3 +1,18 @@
 [submodule "2023/TCC/grupo01"]
 	path = 2023/TCC/grupo01
 	url = https://github.com/puc-sp/2023-tcc-grupo01
+[submodule "2023/TCC/grupo02"]
+	path = 2023/TCC/grupo02
+	url = https://github.com/puc-sp/facei-tcc-2023-grupo02
+[submodule "2023/TCC/grupo03"]
+	path = 2023/TCC/grupo03
+	url = https://github.com/puc-sp/facei-tcc-2023-grupo03
+[submodule "2023/TCC/grupo04"]
+	path = 2023/TCC/grupo04
+	url = https://github.com/puc-sp/facei-tcc-2023-grupo04
+[submodule "2023/TCC/grupo05"]
+	path = 2023/TCC/grupo05
+	url = https://github.com/puc-sp/facei-tcc-2023-grupo05
+[submodule "2023/TCC/grupo06"]
+	path = 2023/TCC/grupo06
+	url = https://github.com/puc-sp/facei-tcc-2023-grupo06
